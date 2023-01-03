@@ -6,7 +6,7 @@ public class Nihal {
         System.out.println("nihal branchi olusturdum");
 
 
-        System.out.println("gul branch olustu");
+        System.out.println("Nihal branchinde 2. degisiklik");
 
 
 
