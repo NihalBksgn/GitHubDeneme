@@ -7,5 +7,6 @@ public class Nihal {
 
         System.out.println("gul branch olustu");
 
+
     }
 }
