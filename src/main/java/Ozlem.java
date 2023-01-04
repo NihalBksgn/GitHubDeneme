@@ -12,6 +12,5 @@ public class Ozlem {
         System.out.println("6.degisiklik");
         System.out.println("7 degisiklik");
 
-
     }
 }
