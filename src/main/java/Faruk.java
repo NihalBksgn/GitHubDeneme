@@ -7,6 +7,9 @@ public class Faruk {
 
         System.out.println("Hatice branchinda calisiyorum");
 
+        System.out.println("Faruk classinda guncelleme");
+
+
 
 
 
