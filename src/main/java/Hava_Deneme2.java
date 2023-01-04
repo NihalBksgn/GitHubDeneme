@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Hava_Deneme2 {
+public class Hava_Deneme2 {
 }
