@@ -7,6 +7,7 @@ public class Ozlem {
 
         System.out.println("Ozlem 2.degisiklik");
         System.out.println("Ozlem 3. degisiklik");
+        System.out.println("4.degisiklik Ozlem");
 
     }
 }
