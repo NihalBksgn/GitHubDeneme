@@ -9,7 +9,6 @@ public class Nihal {
 
 
 
-
         System.out.println("Sumeyye Nihal clasinda degisiklik yapti");
 
 
