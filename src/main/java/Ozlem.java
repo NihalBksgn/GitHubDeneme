@@ -9,6 +9,9 @@ public class Ozlem {
         System.out.println("Ozlem 3. degisiklik");
         System.out.println("4.degisiklik Ozlem");
         System.out.println("5.degisiklik");
+        System.out.println("6.degisiklik");
+        System.out.println("7 degisiklik");
+
 
     }
 }
